@@ -22,14 +22,15 @@ This application has been built using HTML, CSS, JavaScript, and a weather API.
 **How to Use**
 
 1. **Clone the Repository:**
-(https://github.com/meghanakn473/Weather-Forecasting-Application.git)
-3. **Open `index.html`:**
+ (https://github.com/meghanakn473/Forecast-your-weather.git)
+
+2. **Open `index.html`:**
 Open the `index.html` file in your preferred web browser.
 
-4. **Enter Location:**
+3. **Enter Location:**
 Type the name of the location you want to check the weather for in the provided input field.
 
-5. **View Weather Information:**
+4. **View Weather Information:**
 Press the "Get Weather" button to view the current temperature and other weather parameters for the specified location.
 
 **Contributing**
